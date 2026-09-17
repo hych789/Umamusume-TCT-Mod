@@ -20,14 +20,6 @@ campaignTrail_temp.election_json = [
     }
 ];
 
-document.getElementById("inner_window_1").children[1].innerHTML = <li>Welcome to Tracen Academyli>
-  <p>Ever since she was a young racer, Symboli Rudolf dreamed of a bright future. A future where all Umamusumes are inspired and guided to achieve their fullest potential. A future that she felt was up to her to achieve.<p>
-  <p>This dream of a better world continued, even as she grew older and enrolled in Tracen Academy. As she walked through the halls of Tracen, she saw the ills of Umamusume racing happening in front of her. Umamusumes who quit the academy before their debut races. Umamusumes who lost the drive to succeed when their rivals became too dominant. And worst of all, Umamusumes who never got the chance to experience the thrill of racing at all.<p>
-  <p>Tracen Academy needed a leader. One who could be a guiding light to every student at the academy<p>
-  <p>The campaign for Student Council was tough, even more so for a racer who hasn’t even debuted yet. Like David to Goliath, she defied the odds and became Student Council President.<p>
-  <p>However not all is smooth-sailing. With her debut nearing, Rudolf now has to devote time to her career whilst leading the Umamusumes of Tracen Academy to glory, which is a burden only few can carry. Plus with the world outside of Tracen’s walls facing change unseen in decades, Rudolf’s beliefs on leadership will be tested like never before.<p>
-  <p>This is a journey. A journey of one Umamusume striving to be stronger than anyone one. This is a journey of the Emperor’s Path<p>;
-  document.querySelector('#game_start strong').textContent = "Eclipse first...";
 
 
 campaignTrail_temp.temp_election_list = [
