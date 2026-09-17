@@ -4,7 +4,7 @@ campaignTrail_temp.election_json = [
         "pk": 21,
         "fields": {
             "year": 2020,
-            "summary": "<p>Within the walls of Tracen Academy house the most talented Umamusumes in the whole of Japan. Whether they are young prodigies who have excelled in racing since childhood or those who passed the tough entrance exam, Tracen hosts all of these Umamusumes and enables them to achieve their dreams, whether that is through training them to compete in the Twinkle Series or by enabling them to compete in the outside world through a structured education.<p> <p>However, it’s also within the walls of Tracen that the challenges of modern life are exhibited. The extreme competitiveness of the Twinkle Series seeps into the school’s culture, with heated rivalries with classmates or roommates often becoming the main determiner of one’s life in the academy. With many Umamusumes needing to race against their talented cohortmates in addition to keeping up with their academics, it’s no wonder that many feel hopeless about ever being able to compete in the Twinkle Series.<p> <p>It is no wonder, then, that Symboli Rudolf, the newly elected President of the Student Council, has her work cut out for her. Her dream of guiding all Umamusumes in Japan through her authoritative leadership and claiming the Triple Crown as her own is one that almost no other Umamusume can compare to. But as the realities of leadership collide with her career, and Japan goes through monumental changes of its own, Rudolf’s beliefs and worldview would be tested in a way she has never experienced before. All of this puts into question whether her influence and mission would last far beyond her term and career, or whether she is doomed from the start.\n\n",
+            "summary": "<div style='overflow-y:scroll;height:200px;'>\n<p>Within the walls of Tracen Academy house the most talented Umamusumes in the whole of Japan. Whether they are young prodigies who have excelled in racing since childhood or those who passed the tough entrance exam, Tracen hosts all of these Umamusumes and enables them to achieve their dreams, whether that is through training them to compete in the Twinkle Series or by enabling them to compete in the outside world through a structured education.<p> <p>However, it’s also within the walls of Tracen that the challenges of modern life are exhibited. The extreme competitiveness of the Twinkle Series seeps into the school’s culture, with heated rivalries with classmates or roommates often becoming the main determiner of one’s life in the academy. With many Umamusumes needing to race against their talented cohortmates in addition to keeping up with their academics, it’s no wonder that many feel hopeless about ever being able to compete in the Twinkle Series.<p> <p>It is no wonder, then, that Symboli Rudolf, the newly elected President of the Student Council, has her work cut out for her. Her dream of guiding all Umamusumes in Japan through her authoritative leadership and claiming the Triple Crown as her own is one that almost no other Umamusume can compare to. But as the realities of leadership collide with her career, and Japan goes through monumental changes of its own, Rudolf’s beliefs and worldview would be tested in a way she has never experienced before. All of this puts into question whether her influence and mission would last far beyond her term and career, or whether she is doomed from the start. <p>\n</div>\n\n\n\n",
             "image_url": "https://file.garden/ahQjEkNAD3B-mQv2/Random%20ahh/112.webp",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://thecampaigntrail.net/static/images/dillon-stepien.jpg",
@@ -20,8 +20,6 @@ campaignTrail_temp.election_json = [
     }
 ];
 
-
-
 campaignTrail_temp.temp_election_list = [
     {
         "id": 21,
@@ -33,7 +31,7 @@ campaignTrail_temp.temp_election_list = [
 
 RecReading = true;
 
-campaignTrail_temp.credits = "hychael2020";
+campaignTrail_temp.credits = "Dan Bryan";
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -125,7 +123,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<div style='overflow-y:scroll;height:200px;'>\n<p>Air Groove was destined to follow the footsteps of her mother. Coming from a famous Umamusme racer, Air Groove strived to live up to her mother’s potential and guide others to do the same. It is no wonder then, that the young Air Groove became a young prodigy and secured her spot at her mother’s alma mater.</p> <p>Though Air Groove initially didn’t want to join the Student Council, she saw the struggles that her fellow Umamusumes were going through. From overhearing cries of regret for joining the Twinkle Series whilst tending to her flower garden, to seeing the lack of funding for the Academy’s various interest groups like the Horticultural Club, she saw the need to stand up in order to help guide Tracen to greater heights <p> <p> Her campaign for Student Council was well fought. Through her focus on discipline and accountability, she was able to stand toe to toe with other more established candidates. Even though her campaign for the Presidency fell just shortly behind Rudolf’s, the newly elected President saw potential in Groove and invited her to rule alongside her, attributing her unique knack for being able to keep the rest of the Student Council in line. <p> Now, Air Groove would have to contend with ruling alongside Rudolf as her number one sidekick. As her career aimed at conquering the Triple Tiara begins, Groove would have to deal with stacks of Student Council work alongside her training. But it's a sacrifice Groove would be willing to take if it helps to fufill her potential and live up to her mother’s name. <p> <p>‘All in the Empress’s Road’ she tells herself\n\n\n \n",
+            "description_as_running_mate": "<div style='overflow-y:scroll;height:200px;'>\n<p>Air Groove was destined to follow the footsteps of her mother. Coming from a famous Umamusme racer, Air Groove strived to live up to her mother’s potential and guide others to do the same. It is no wonder then, that the young Air Groove became a young prodigy and secured her spot at her mother’s alma mater.</p> <p>Though Air Groove initially didn’t want to join the Student Council, she saw the struggles that her fellow Umamusumes were going through. From overhearing cries of regret for joining the Twinkle Series whilst tending to her flower garden, to seeing the lack of funding for the Academy’s various interest groups like the Horticultural Club, she saw the need to stand up in order to help guide Tracen to greater heights <p> <p> Her campaign for Student Council was well fought. Through her focus on discipline and accountability, she was able to stand toe to toe with other more established candidates. Even though her campaign for the Presidency fell just shortly behind Rudolf’s, the newly elected President saw potential in Groove and invited her to rule alongside her, attributing her unique knack for being able to keep the rest of the Student Council in line. <p> Now, Air Groove would have to contend with ruling alongside Rudolf as her number one sidekick. As her career aimed at conquering the Triple Tiara begins, Groove would have to deal with stacks of Student Council work alongside her training. But it's a sacrifice Groove would be willing to take if it helps to fufill her potential and live up to her mother’s name. <p> <p>‘All in the Empress’s Road’ she tells herself\n</div>\n\n\n\n \n",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -464,3 +462,4 @@ theme.body_background = "https://file.garden/ahQjEkNAD3B-mQv2/Random%20ahh/New_S
 
 applyTheme(theme);
 //#endcode
+
